@@ -13,3 +13,4 @@ D:\Udemy\Ecom\Infrastructure\bin\Debug\net8.0\Core.dll
 D:\Udemy\Ecom\Infrastructure\bin\Debug\net8.0\Core.pdb
 D:\Udemy\Ecom\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
 D:\Udemy\Ecom\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Udemy\Ecom\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
