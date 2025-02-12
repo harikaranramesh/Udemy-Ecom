@@ -15,8 +15,9 @@ builder.Services.AddDbContext<StoreContext>(option =>
 });
 
 builder.Services.AddScoped<IProductRepository,ProductRepository>();
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
-var app = builder.Build();
+var app = builder.Build();  
 
 if (app.Environment.IsDevelopment())
 {
