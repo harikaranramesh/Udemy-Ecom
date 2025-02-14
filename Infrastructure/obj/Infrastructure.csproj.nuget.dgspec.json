@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Udemy\\Ecom\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\Udemy\\Ecom\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "d:\\Udemy\\Ecom\\Core\\Core.csproj": {
+    "D:\\Udemy\\Ecom\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Udemy\\Ecom\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Udemy\\Ecom\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "d:\\Udemy\\Ecom\\Core\\Core.csproj",
+        "projectPath": "D:\\Udemy\\Ecom\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\harikaran.ramesh\\.nuget\\packages\\",
-        "outputPath": "d:\\Udemy\\Ecom\\Core\\obj\\",
+        "outputPath": "D:\\Udemy\\Ecom\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harikaran.ramesh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "d:\\Udemy\\Ecom\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Udemy\\Ecom\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Udemy\\Ecom\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Udemy\\Ecom\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "d:\\Udemy\\Ecom\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\Udemy\\Ecom\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\harikaran.ramesh\\.nuget\\packages\\",
-        "outputPath": "d:\\Udemy\\Ecom\\Infrastructure\\obj\\",
+        "outputPath": "D:\\Udemy\\Ecom\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harikaran.ramesh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\Udemy\\Ecom\\Core\\Core.csproj": {
-                "projectPath": "d:\\Udemy\\Ecom\\Core\\Core.csproj"
+              "D:\\Udemy\\Ecom\\Core\\Core.csproj": {
+                "projectPath": "D:\\Udemy\\Ecom\\Core\\Core.csproj"
               }
             }
           }

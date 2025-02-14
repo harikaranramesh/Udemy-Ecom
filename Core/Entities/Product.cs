@@ -12,16 +12,5 @@ public class Product : BaseEntity
    public required string Brand { get; set; } 
    public int QuantityInStock { get; set; }
    
-   
-   
-   
-   
-   
-   
 
-   
-   
-   
-   
-   
 }
