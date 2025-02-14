@@ -2829,11 +2829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Udemy\\Ecom\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "d:\\Udemy\\Ecom\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\Udemy\\Ecom\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "d:\\Udemy\\Ecom\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\harikaran.ramesh\\.nuget\\packages\\",
-      "outputPath": "D:\\Udemy\\Ecom\\Infrastructure\\obj\\",
+      "outputPath": "d:\\Udemy\\Ecom\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harikaran.ramesh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2848,8 +2848,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Udemy\\Ecom\\Core\\Core.csproj": {
-              "projectPath": "D:\\Udemy\\Ecom\\Core\\Core.csproj"
+            "d:\\Udemy\\Ecom\\Core\\Core.csproj": {
+              "projectPath": "d:\\Udemy\\Ecom\\Core\\Core.csproj"
             }
           }
         }

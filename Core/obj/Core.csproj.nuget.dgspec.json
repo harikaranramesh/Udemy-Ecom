@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Udemy\\Ecom\\Core\\Core.csproj": {}
+    "d:\\Udemy\\Ecom\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\Udemy\\Ecom\\Core\\Core.csproj": {
+    "d:\\Udemy\\Ecom\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Udemy\\Ecom\\Core\\Core.csproj",
+        "projectUniqueName": "d:\\Udemy\\Ecom\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Udemy\\Ecom\\Core\\Core.csproj",
+        "projectPath": "d:\\Udemy\\Ecom\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\harikaran.ramesh\\.nuget\\packages\\",
-        "outputPath": "D:\\Udemy\\Ecom\\Core\\obj\\",
+        "outputPath": "d:\\Udemy\\Ecom\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harikaran.ramesh\\AppData\\Roaming\\NuGet\\NuGet.Config"
