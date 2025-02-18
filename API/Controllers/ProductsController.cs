@@ -92,6 +92,4 @@ public class ProductsController(IGenericRepository<Product> repo) : BaseApiContr
     {
         return repo.Exists(id);
     }
-
-
 }
